@@ -33,7 +33,7 @@ const gameInfoList = [
   {
     id: 3,
     title: "방향키게임",
-    url: "mouse_control.html",
+    url: "arrowSpeed.html",
     thumnail: "public/assets/arrow_speed_thumbnail.png",
     isNew: false,
   },
